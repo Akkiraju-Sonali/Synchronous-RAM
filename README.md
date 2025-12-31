@@ -21,8 +21,9 @@ This project is intended for learning **RTL memory modeling and simulation**.
 ---
 
 ## File Structure
-sram.v // SRAM RTL module
-sram_tb.v // Testbench for simulation
+ram.v // SRAM RTL module
+
+tb_ram.v // Testbench for simulation
 
 ---
 
